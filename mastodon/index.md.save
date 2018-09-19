@@ -1,0 +1,16 @@
+# PeerTube
+Mastodon est un serveur libre, open-source de réseau social basé sur des protocoles Web ouverts comme ActivityPub et OStatus. L'objectif social du projet est une alternative viable décentralisée aux silos de médias sociaux commerciaux qui renvoie le contrôle des canaux de distribution de contenu aux personnes. L'objectif technique du projet est une bonne interface utilisateur, une API de repos propre pour les applications 3ème partie et robustes outils anti-abus.
+
+## Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs help` - Print this help message.
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.

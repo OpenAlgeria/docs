@@ -1,0 +1,20 @@
+# PixelFed: Federated Image Sharing
+![Screenshot](https://cybercratia.cl/wp-content/uploads/2018/06/3ac84e64c2b638e3.png)
+PixelFed est une plate-forme de partage d'image sociale fédérée, similaire à Instagram. La Fédération se fait en utilisant le protocole  [ActivityPub](https://activitypub.rocks/), 
+qui est utilisé aussi par  [Mastodon](http://joinmastodon.org/), [PeerTube](https://joinpeertube.org/fr/), [Pleroma](https://activitypub.rocks/),
+et plus encore. Grâce à ActivityPub de PixelFed vous pouvez partager et interagir avec ces plates-formes, ainsi que d'autres instances de PixelFed.
+
+!!! attention
+    S'il vous plaît noter que c'est une version  alpha,  et la Fédération n'est pas encore pris en charge.
+
+## Conditions préalables
+Vous aurez besoin des éléments suivants :
+
+
+
+## Installation
+
+``` powershell
+import tensorflow as tf
+```
+
